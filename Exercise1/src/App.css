@@ -1,0 +1,48 @@
+.bigTitle {
+  background-color:  gray;
+  color: white;
+  font-size: 15px;
+  padding: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
+  }
+  
+  .headerOuter {
+    
+      background-color:rgb(37, 0, 124);
+      color: white;
+  }
+ 
+  .headerInner {
+      display:flex;
+      width: 1100px;
+      margin-left:auto;
+      margin-right:auto;
+      padding:24px;
+  }
+
+  .headerInner > .menuElement{
+    margin-left:20px;
+    margin-right:20px;
+
+  }
+  .headerInner > .menuElementLisa{
+    margin-left :20px;
+    margin-right:20px;
+
+  }
+  
+
+  .bigAdverti {
+    background-color: rgb(160, 124, 245);
+    color: white;
+    font-size: 15px;
+    padding: 24px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+    img {
+    
+    margin-left: 10%;
+    margin-right: 10%;
+  };
